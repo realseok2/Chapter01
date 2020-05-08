@@ -28,10 +28,10 @@ public class TS_Ex09 {
 				System.out.println("입력하신 [" + num1 + "] 은(는) " + num2 + "의 배수가 아닙니다.");
 				break;
 			}
-		}
+		}//while
 
 		sc.close();
 
-	}
+	}//main
 
 }
