@@ -9,6 +9,8 @@ public class Ex05 {
 		
 		Scanner sc = new Scanner(System.in);
 		
+		System.out.println("사용자가 입력한 숫자가 3의 배수인지 알려주는 프로그램입니다.");
+		
 		int num;																											//		숫자
 		
 		System.out.println("숫자를 입력하세요!");
