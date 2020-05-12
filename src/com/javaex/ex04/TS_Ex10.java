@@ -4,7 +4,7 @@ public class TS_Ex10 {
 
 	public static void main(String[] args) {
 
-		System.out.println("자동으로 Lotto번호를 추출해 내는 프로그램입니다.");
+		System.out.println("자동으로 Lotto번호를 추출해 내는 프로그램입니다.\n");
 
 		int no1, no2, no3, no4, no5, no6;
 
@@ -21,6 +21,7 @@ public class TS_Ex10 {
 		System.out.println("네번째로 추출된 숫자는 : " + no4);
 		System.out.println("다섯번째로 추출된 숫자는 : " + no5);
 		System.out.println("여섯번째로 추출된 숫자는 : " + no6);
+		System.out.println("\n이 번호로 Lotto를 구매하세요!");
 	}//main
 
 }//class
